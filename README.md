@@ -3,7 +3,7 @@
 词云图大家应该不会陌生，即是由词汇组成类似云的彩色图形。
 
 今天Henry带领大家一起学习用Python自带的词云库——wordcloud在十行代码内绘制出精美的词云图！
-
+![4](C:\Users\86198\Desktop\4.png)
 想要给自己的照片做词云吗？！！
 
 那赶快进来学习吧！
@@ -84,7 +84,9 @@ w_color=w.recolor(color_func=image_colors)    //用原图中的颜色对词云�
 
 这就是本期的全部内容！用十行代码做出了精美的词云！你学会了吗？
 
-没学会也没关系，所有的内容我都上传到了我的Github网站：https://github.com/HenryLau7/WordCloud/，欢迎大家随时学习！
+没学会也没关系，所有的内容我都上传到了我的Github网站：https://github.com/HenryLau7/WordCloud/
+
+欢迎大家随时学习！
 
 
 注意注意！如果你不想学习呢？请关注本公众号「今天我秃了吗」，后台点击「词云」，按照提示即可获得精美的词云图！
