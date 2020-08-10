@@ -5,16 +5,8 @@
 今天Henry带领大家一起学习用Python自带的词云库——wordcloud在十行代码内绘制出精美的词云图！
 
 首先放一放效果图！
-
 ![4](C:\Users\86198\Desktop\4.png)
 
-![1](C:\Users\86198\Desktop\1.png)
-
-
-
-![3](C:\Users\86198\Desktop\3.png)
-
-![2](C:\Users\86198\Desktop\2.png)
 
 有你的爱豆吗？！！
 
@@ -87,7 +79,7 @@ w.to_file("caixukun_output.png") //导出png格式的词云图
 
 于是我们可以在文件夹找到生成的图片文件
 
-![image-20200810115003363](C:\Users\86198\AppData\Roaming\Typora\typora-user-images\image-20200810115003363.png)
+
 
 大概有了Kunkun的轮廓！但是！我们Kunkun明明是穿的粉丝的衣服，咋整成了这个sai儿？安排！
 
